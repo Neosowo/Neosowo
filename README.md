@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at OrstedSoft Solutions.<br>🌱 I am currently learning Python and JavaScript<br>💬 Attempted programmer :3
+🌱 I am currently learning Python and JavaScript<br>💬 Attempted programmer :3
 
 
 ## 🌐 Socials:
